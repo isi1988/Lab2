@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace CLab2
 {
-    class Personal
+    class Person
     {
         public string Name { get; private set; }
         public int Age { get; private set; }
 
-        public Personal(string name, int age)
+        public Person(string name, int age)
         {
             Name = name;
             Age = age;
