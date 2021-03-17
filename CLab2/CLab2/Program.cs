@@ -32,6 +32,8 @@ namespace CLab2
             Console.ForegroundColor = ConsoleColor.Gray;
             Console.BackgroundColor = ConsoleColor.Black;
             Console.WriteLine("Hello NikitaShishov");
+
+            Console.WriteLine((new Person("Dima", 22).SayHello()));
         }
     }
 }
