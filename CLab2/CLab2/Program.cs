@@ -7,7 +7,7 @@ namespace CLab2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello Sviatoslav1");
+            Console.WriteLine("Hello Sviatoslav2");
         }
     }
 }
