@@ -28,6 +28,8 @@ namespace CLab2
             Console.WriteLine("Hello Ilya");
             Console.WriteLine("Hi Dave");
             Console.WriteLine("Hello NikitaShishov");
+
+            Console.WriteLine((new Person("Dima", 22).SayHello()));
         }
     }
 }
