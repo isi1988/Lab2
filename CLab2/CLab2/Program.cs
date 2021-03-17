@@ -18,8 +18,6 @@ namespace CLab2
             Console.WriteLine("Hi Dave");
             Console.WriteLine("Hello Ilya");
             Console.WriteLine("DeD");
-            Console.WriteLine("Hello Sviatoslav2");
-            Console.WriteLine("Hello Sviatoslav24");
 
             Console.WriteLine("Hello Sviatoslav24");
 
