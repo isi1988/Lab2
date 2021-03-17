@@ -16,6 +16,7 @@ namespace CLab2
 
             Console.WriteLine("Hello Sviatoslav24");
             Console.WriteLine("Hello Ilya");
+            Console.WriteLine("DeD");
         }
     }
 }
