@@ -16,6 +16,9 @@ namespace CLab2
 
             Console.WriteLine("Hello Sviatoslav24");
             Console.WriteLine("Hello Ilya");
+
+            Personal personal = new Personal("Dima", 22);
+
         }
     }
 }
