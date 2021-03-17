@@ -16,5 +16,10 @@ namespace CLab2
             Name = name;
             Age = age;
         }
+
+        public string SayHello()
+        {
+            return $"Hello, i'm {Name}";
+        }
     }
 }
